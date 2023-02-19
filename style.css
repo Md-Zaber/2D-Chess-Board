@@ -1,0 +1,31 @@
+body {
+    background-color: green;
+}
+
+#outer {
+    height: 640px;
+    width: 640px;
+    background-color: aqua;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+
+.r {
+    height: 80px;
+    width: 640px;
+    background-color: yellow;
+}
+
+.w {
+    height: 80px;
+    width: 80px;
+    background-color: white;
+    float: left;
+}
+
+.b {
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    float: left;
+}
